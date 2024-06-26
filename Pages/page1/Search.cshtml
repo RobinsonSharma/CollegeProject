@@ -1,0 +1,52 @@
+﻿@page
+@model CollegeProject1.Pages.page1.SearchModel
+@{
+}
+<table class="table">
+    <thead>
+        <tr>
+
+            <td>StudentName</td>
+            <td>Class</td>
+            <td>Exam</td>
+            <td>Roll</td>
+            <td>Address</td>
+            <td>Result</td>
+            <td>TotalMark</td>
+            <td>Percentage</td>
+            <td>Action</td>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            if(Model.listStudents.Count==0)
+            {
+                <script>
+                    alert("Invalid");
+                    window.location.assign("/page1/loloId")
+                </script>
+            }
+            else
+
+            {
+                
+                foreach (var item in Model.listStudents)
+                {
+                    <tr>
+                        <td>@item.StudentName</td>
+                        <td>@item.Class</td>
+                        <td>@item.Exam</td>
+                        <td>@item.Roll</td>
+                        <td>@item.Address</td>
+                        <td>@item.Result</td>
+                        <td>@item.TotalMark</td>
+                        <td>@item.Percentage</td>
+                        <td>
+                            <button formaction="/Exam/View" type="submit" runat="server" asp-for="Submit">View</button>
+                        </td>
+                    </tr>
+                }
+            }
+        }
+    </tbody>
+</table>

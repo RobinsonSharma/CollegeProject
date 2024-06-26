@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CollegeProject1
+build_property.RootNamespace = CollegeProject1
+build_property.ProjectDir = E:\visual studio 2022\CollegeProject1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\visual studio 2022\CollegeProject1
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/visual studio 2022/CollegeProject1/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/visual studio 2022/CollegeProject1/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/visual studio 2022/CollegeProject1/Pages/page1/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGFnZTFcSW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/visual studio 2022/CollegeProject1/Pages/page1/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGFnZTFcSW5kZXgyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/visual studio 2022/CollegeProject1/Pages/page1/loloId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGFnZTFcbG9sb0lkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/visual studio 2022/CollegeProject1/Pages/page1/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGFnZTFcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/visual studio 2022/CollegeProject1/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/visual studio 2022/CollegeProject1/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/visual studio 2022/CollegeProject1/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/visual studio 2022/CollegeProject1/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/visual studio 2022/CollegeProject1/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gvs6j15gsp

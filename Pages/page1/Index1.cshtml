@@ -1,0 +1,24 @@
+﻿@page
+@model CollegeProject1.Pages.page1.Index1Model
+@{
+
+}
+<div>
+    <form method="post">
+
+        <asp:label>RollNo</asp:label>
+        <input class="" asp-for="RollNo" runat="server" formaction="/Page1/Index2" required type="text">
+        
+        <span asp-validation-for="RollNo" class="text-danger"></span>
+        
+
+
+        <asp:label>ClassName</asp:label>
+        <input class="" asp-for="ClassName" runat="server" formaction="/Page1/Index2" required type="text">
+
+        <asp:label>ExamName</asp:label>
+        <input class="" asp-for="ExamName" runat="server" formaction="/Page1/Index2" required type="text">
+
+        <button formaction="/Page1/Index2" type="submit" runat="server" asp-for="Page1">Submit</button>
+    </form>
+</div>
